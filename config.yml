@@ -80,7 +80,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Netanya Williams"
-      icon: favicon.ico
+      icon: squarelogo.jpg
       iconHeight: 18
 
 markup:
