@@ -48,10 +48,10 @@ params:
     profileMode:
           enabled: true
           title: Netanya Williams
-          subtitle: "I am a MS student in the **UConn EEB department?** interested in Parasite imaging and phylogenetics. Parasitic copepod taxonomy, systematics, and host association."
+          subtitle: "I am a MS student in the **UConn EEB department** interested in Parasite imaging and phylogenetics. Parasitic copepod **taxonomy**, **systematics**, and **host association**."
           imageUrl: "okpicture.jpeg"
-          imageWidth: 155
-          imageHeight: 160
+          imageWidth: 185
+          imageHeight: 180
           imageTitle: Netanya Williams
           buttons:
             - name: About Me
