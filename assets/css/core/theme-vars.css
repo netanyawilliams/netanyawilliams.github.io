@@ -17,13 +17,13 @@
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
     --darkcolor: #569154;
-    --lightcolor: #7eb861;
+    --lightcolor: #569154;
     --semibold: 500;
     --homesize: 20px;
     --textsize: 26px;
-    --h1size: 29px;
+    --h1size: 26px;
     --entrysize: 15px;
-    --headersize: 16px;
+    --headersize: 15px;
     --footersize: 13px;
     --lineheight: 1.45;
     --lineclamp: 8;
