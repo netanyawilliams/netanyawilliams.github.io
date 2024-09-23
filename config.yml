@@ -55,11 +55,11 @@ params:
           imageTitle: Netanya Williams
           buttons:
             - name: About Me
-              url: books/
+            #  url: books/
             - name: Research
-              url: papers/
+            #  url: papers/
             - name: Outreach
-              url: data/
+            #  url: data/
 
     socialIcons:
         - name: CV
