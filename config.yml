@@ -22,7 +22,7 @@ menu:
           weight: 3 
 
 params:
-    description: "I am a MS student in the UConn EEB department interested in Parasite imaging and phylogenetics. Parasitic copepod taxonomy, systematics, and host association."
+    description: "I am a MS student in the UConn EEB department interested in parasite imaging and phylogenetics. Parasitic copepod taxonomy, systematics, and host association."
     author: Netanya Williams
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -51,7 +51,7 @@ params:
           subtitle: "I am a MS student in the **UConn EEB department** interested in Parasite imaging and phylogenetics. Parasitic copepod **taxonomy**, **systematics**, and **host association**."
           imageUrl: "okpicture.jpeg"
           imageWidth: 185
-          imageHeight: 180
+          imageHeight: 185
           imageTitle: Netanya Williams
           buttons:
             - name: About Me
