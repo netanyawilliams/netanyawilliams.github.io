@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Netanya Williams
-          subtitle: "I’m a Masters student in the Bernot Lab interested in parasitic copepod systematics. I study the taxonomy of Pseudotaeniacanthus, a group of parasitic copepods of marine eels. My current work focuses on new species descriptions and the phylogenetic relationships of the genus. Prior to joining the Bernot Lab, I earned my BA in Biological Sciences at the University of Connecticut in 2023 and worked for 2 years doing research on the taxonomy and host associations of tapeworms of carcharhinid sharks and rays with Janine Caira."
+          subtitle: "I’m a Masters student in the Bernot Lab interested in parasitic copepod systematics. I study the taxonomy of _**Pseudotaeniacanthus**_, a group of parasitic copepods of marine eels. My current work focuses on new species descriptions and the phylogenetic relationships of the genus. Prior to joining the Bernot Lab, I earned my BA in Biological Sciences at the University of Connecticut in 2023 and worked for 2 years doing research on the taxonomy and host associations of tapeworms of carcharhinid sharks and rays with Janine Caira."
           imageUrl: "okpicture.jpeg"
           imageWidth: 185
           imageHeight: 185
